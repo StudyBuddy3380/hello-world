@@ -1,4 +1,3 @@
-# hello-world
-test
+#StudyBuddy Planning Application
 
-Definitely not a robot.
+Repository for Mukhopadhyay CSC 3380 
